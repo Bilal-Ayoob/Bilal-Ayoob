@@ -56,8 +56,7 @@
 
 ---
 -->
-
-### 📫 Connect With Me  
+ 
 ### 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/bilal-ayoob-5840b7230)  
 📧 **Email:** m.bilal2429@gmail.com
