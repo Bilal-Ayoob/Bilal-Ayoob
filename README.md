@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bilal Khan! 👋</h1>
+<h1 align="center">Hi there, I'm Bilal Ayoob! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Software+Engineer;AI+Enthusiast+;Innovating+one+line+at+a+time">
@@ -58,7 +58,8 @@
 -->
 
 ### 📫 Connect With Me  
-🔗 [**LinkedIn**](www.linkedin.com/in/bilal-ayoob-5840b7230)  
+### 📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/bilal-ayoob-5840b7230)  
 📧 **Email:** m.bilal2429@gmail.com
 
 ---
