@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bilal Khan! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Engineer;AI+&+ML+Enthusiast;Tech+Explorer;Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Software+Engineer;AI+Enthusiast+;Innovating+one+line+at+a+time">
 </p>
 
 ---
@@ -29,11 +29,11 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Khan&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Ayoob&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Khan&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-Ayoob&theme=radical">
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ### 📫 Connect With Me  
 🔗 [**LinkedIn**](www.linkedin.com/in/bilal-ayoob-5840b7230)  
-📧 **Email:** bilal.khan@example.com *(Modify this with your actual email)*  
+📧 **Email:** m.bilal2429@gmail.com
 
 ---
 
