@@ -39,6 +39,12 @@
 
 ---
 
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilal-Ayoob&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🌱 What I'm Learning  
 📌 **Machine Learning & AI**  
 📌 **Backend Development with Spring Boot  and React.js**  
@@ -58,9 +64,13 @@
 ---
 -->
  
-### 📫 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/bilal-ayoob-5840b7230)  
-📧 **Email:** m.bilal2429@gmail.com
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bilal-ayoob-5840b7230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bilal-Ayoob"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/m_bilal250/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
