@@ -38,8 +38,12 @@
 </p>
 
 ---
+<!--
+## 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bilal-Ayoob&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
+---
+-->
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bilal-Ayoob&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
